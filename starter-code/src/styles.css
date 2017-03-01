@@ -1,1 +1,34 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+img {
+  margin-left: 70px;
+}
+
+.navbar {
+  background-color: black;
+}
+
+.navbar-header {
+  color: lightblue;
+}
+
+.images {
+  height: 250px;
+  width: 180px;
+}
+
+.row {
+  margin-left: auto;
+}
+
+.movie {
+  margin-left: 0;
+}
+
+#back-button {
+  margin-left: auto;
+  margin-right: auto;
+}
